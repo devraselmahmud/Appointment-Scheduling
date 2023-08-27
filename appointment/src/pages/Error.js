@@ -12,8 +12,6 @@ const Error = () => {
   //   console.log('time is greater')
   // }
   const end = moment('17:00', 'HH:mm').toString()
-  // console.log(end)
-   
   // const diff = moment(end).diff(moment(time), 'minutes')
   // const d = moment.duration(diff)
   // console.log('minute diff:',d)
